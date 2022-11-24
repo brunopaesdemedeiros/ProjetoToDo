@@ -12,10 +12,7 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 import model.Task;
 
-/**
- *
- * @author bruno
- */
+
 public class DeadLineColumnCellRenderer extends DefaultTableCellRenderer{
     
     @Override
