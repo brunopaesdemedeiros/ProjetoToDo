@@ -10,10 +10,7 @@ import javax.swing.JTable;
 import static javax.swing.SwingConstants.CENTER;
 import javax.swing.table.DefaultTableCellRenderer;
 
-/**
- *
- * @author bruno
- */
+
 public class ButtonColumnCellRenderer extends DefaultTableCellRenderer{
     
     private String buttonType;
